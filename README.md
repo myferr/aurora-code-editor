@@ -10,7 +10,9 @@ To download **Aurora Code Editor** use the following command in your command lin
 
 # Requirements
 jedi==0.18.1
+
 PyQt5==5.15.7
+
 QScintilla==2.13.3
 
 # ToDo:
