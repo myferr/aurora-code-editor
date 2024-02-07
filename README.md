@@ -10,6 +10,5 @@ To download **Aurora Code Editor** use the following command in your command lin
 
 # ToDo:
 * Fix open file bugs
-* Add a window icon
 * Create a website for Aurora
 * Fix syntax highlighting
